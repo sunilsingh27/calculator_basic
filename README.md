@@ -1,4 +1,8 @@
+USE flutter 3.13.0 version -- 
+USE dart 3.1.0 version --
 # simple_calculator
+
+FOR ANDOID WEB ADN IOS 
 
 A new Flutter project.
 
